@@ -1,0 +1,12 @@
+.searchList{
+    margin-top: 20px;    
+    text-align: left;
+}
+.searchItem{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.searchItem a.parent{
+    text-decoration: none;
+    color: black;
+}
